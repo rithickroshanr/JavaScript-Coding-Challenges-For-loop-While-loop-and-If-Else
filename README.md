@@ -1,4 +1,4 @@
-# JavaScript-Coding-Challenges-For-loop-While-loop-and-If-Else
+# JavaScript-Coding-Challenges:For-loop-While-loop-and-If-Else
 JavaScript Coding Challenges: Control Flow Mastery (for, while, if-else)
 
 This repository contains a comprehensive collection of JavaScript coding challenges focused on mastering fundamental control flow statements.  The exercises are designed to build a strong foundation in logic and iteration, suitable for learners at all levels.
